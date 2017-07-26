@@ -1,5 +1,8 @@
 Warna-Warna
 Merah
 Putih
+
 Hijau
 Biru
+Ungu
+Hitam
