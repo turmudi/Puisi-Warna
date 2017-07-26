@@ -1,8 +1,9 @@
 Warna-Warna
 Merah
 Putih
-
+Kuning
 Hijau
 Biru
 Ungu
 Hitam
+Kelabu
